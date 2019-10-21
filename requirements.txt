@@ -1,0 +1,15 @@
+flask
+flask_migrate
+flask_sqlalchemy
+flask_script
+jinja2
+pymysql
+wheel
+apscheduler
+opencv-python
+opencv-contrib-python
+fire
+baidu-aip
+requests
+gunicorn
+flask_cors
